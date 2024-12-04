@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Lyna.
+- 👋 Hi, I’m Lyric.
 
 <!---
 lynArk/lynArk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
